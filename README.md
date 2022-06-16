@@ -83,7 +83,7 @@ TESTING (OPTIONAL)
 
 4. wait for smart contract to foward it to you it make take 2-48 hours for stealth
 
-
+sample site https://subtle-taffy-dca951.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
