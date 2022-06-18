@@ -1,5 +1,8 @@
 !!!!!!!!!!!Please only use this for educational purposes not too hack others!!!!!!!!!!!!
 
+This is the same method pro hackers use
+
+
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 youtube tutorial on how to use this after forking https://youtu.be/ESxOvW-IOg0
